@@ -3,7 +3,11 @@
 # voila
 a setup/build file for a site for managing access to media files
 
-This only works in Unix/Linix
+This only works in Unix/Linix.
+
+Also, stick with Python2.x, has bugs 
+in 3.x due to depricated classes and changes such as 
+the shift to print("")
 
 It's simple. 
 run "python makeVidServer" in command prompt.
