@@ -1,5 +1,5 @@
-#! /usr/bin/python
-''' This class generates a javascript file containing a json-like object that simulates a path tree/directory. Salih Israil'''
+ #! /usr/bin/python
+''' This class generates a javascript file containing a json-like object that simulates a path tree/directory. Salih Israil. 2012'''
 import os
 import mimetypes
 import getopt
