@@ -37,5 +37,4 @@ build it.
 makepath.py changes or reboots the paths of your media files
 whenever you change them or add more. For reasons I care not to 
 explain, I had an incomplete version of python2.6, which didn't have the json 
-module or the os.walk method. I was still in the learning stages of python,
-so working through this code was an adventure.
+module or the os.walk method so I had to create my own verion of them.
